@@ -10,12 +10,10 @@ Solutions to the [Problem set: Jupyter, pyplot and numpy](https://github.com/w32
    * [Use Iris data set](https://en.wikipedia.org/wiki/Iris_flower_data_set)   
    
 ## How to Run
-```bash
-- Go to your repository folder
-- Enter your `cmd` or `cmder` or `Terminal`(for Mac)
-- Type: `$ jupyter notebook`
-- Click open `Iris-data-set.ipynb`
-```
+-  Go to your repository folder
+-  Enter your `cmd` or `cmder` or `Terminal`(for Mac)
+-  Type: `$ jupyter notebook`
+-  Click open `Iris-data-set.ipynb`
 #### Run python file before, you need to install in cmd/cmder/terminal following below:
 - [Python3.x](https://www.python.org/downloads/)
 - `$ pip3 install matplotlib`
